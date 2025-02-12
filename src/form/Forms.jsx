@@ -43,6 +43,7 @@ class Loginform extends Component{
                 password:""
             })
         )
+        ev.target.reset()
     }
 
    
